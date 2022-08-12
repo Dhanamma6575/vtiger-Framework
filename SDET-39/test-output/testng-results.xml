@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-12T10:47:55 IST" name="Default suite" finished-at="2022-08-12T10:51:31 IST" duration-ms="215411">
+    <groups>
+      <group name="regressionTest">
+        <method signature="CreateProductTest.createProduct()[pri:0, instance:com.crm.Sdet.productTest.CreateProductTest@12aba8be]" name="createProduct" class="com.crm.Sdet.productTest.CreateProductTest"/>
+      </group> <!-- regressionTest -->
+      <group name="smokeTest">
+        <method signature="CreateProductTest.createProduct()[pri:0, instance:com.crm.Sdet.productTest.CreateProductTest@12aba8be]" name="createProduct" class="com.crm.Sdet.productTest.CreateProductTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2022-08-12T10:47:55 IST" name="Default test" finished-at="2022-08-12T10:51:31 IST" duration-ms="215411">
+      <class name="com.crm.Sdet.productTest.CreateProductTest">
+        <test-method is-config="true" signature="BS()[pri:0, instance:com.crm.Sdet.productTest.CreateProductTest@12aba8be]" started-at="2022-08-12T10:47:55 IST" name="BS" finished-at="2022-08-12T10:47:55 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:com.crm.Sdet.productTest.CreateProductTest@12aba8be]" started-at="2022-08-12T10:47:55 IST" name="BT" finished-at="2022-08-12T10:47:55 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:com.crm.Sdet.productTest.CreateProductTest@12aba8be]" started-at="2022-08-12T10:47:55 IST" name="BC" finished-at="2022-08-12T10:48:40 IST" duration-ms="44577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:com.crm.Sdet.productTest.CreateProductTest@12aba8be]" started-at="2022-08-12T10:48:40 IST" name="BM" finished-at="2022-08-12T10:50:01 IST" duration-ms="81288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="createProduct()[pri:0, instance:com.crm.Sdet.productTest.CreateProductTest@12aba8be]" started-at="2022-08-12T10:50:01 IST" name="createProduct" finished-at="2022-08-12T10:51:31 IST" duration-ms="89383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProduct -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:com.crm.Sdet.productTest.CreateProductTest@12aba8be]" started-at="2022-08-12T10:51:31 IST" name="AM" finished-at="2022-08-12T10:51:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:com.crm.Sdet.productTest.CreateProductTest@12aba8be]" started-at="2022-08-12T10:51:31 IST" name="AC" finished-at="2022-08-12T10:51:31 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:com.crm.Sdet.productTest.CreateProductTest@12aba8be]" started-at="2022-08-12T10:51:31 IST" name="AT" finished-at="2022-08-12T10:51:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:com.crm.Sdet.productTest.CreateProductTest@12aba8be]" started-at="2022-08-12T10:51:31 IST" name="AS" finished-at="2022-08-12T10:51:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- com.crm.Sdet.productTest.CreateProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
